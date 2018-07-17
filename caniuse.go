@@ -1,4 +1,4 @@
-package main
+package caniuse
 
 import "fmt"
 
